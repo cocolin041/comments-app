@@ -1,0 +1,15 @@
+.title {
+    text-align: center;
+    animation: zoom-in-out 0.5s linear 0.1s infinite alternate;
+}
+.comment-app {
+    background-color: #fff;
+    border: 1px solid #f1f1f1;
+    width: 50vw;
+    margin: 10px auto;
+    padding: 20px;
+}
+@keyframes zoom-in-out {
+    from {transform: scale(1);}
+    to {transform: scale(1.2);}
+}
