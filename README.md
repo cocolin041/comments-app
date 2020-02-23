@@ -7,7 +7,7 @@ This app was built followed the tutorial on http://huziketang.mangojuice.top/boo
 Leave comments
 
 ## Demo Image
-![demo](demo.jpg)
+![demo](demo.png)
 
 ## Available Scripts
 
