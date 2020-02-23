@@ -6,6 +6,9 @@ This app was built followed the tutorial on http://huziketang.mangojuice.top/boo
 ## Features
 Leave comments
 
+## Demo Image
+![demo](demo.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
